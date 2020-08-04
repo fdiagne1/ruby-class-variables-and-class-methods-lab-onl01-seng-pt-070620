@@ -36,6 +36,7 @@ class Song
     end
   end 
   genre_count
+end
   
   self.artist_count
   artist_count = {}
@@ -47,5 +48,6 @@ class Song
   end 
   end
   artist_count
+end
 
 end
